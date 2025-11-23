@@ -37,7 +37,7 @@ A collection of PowerShell utilities for Windows system administration and autom
 
 1. Clone or download this repository:
 ```powershell
-git clone https://github.com/yourusername/windows-utils.git
+git clone https://go.hugobatista.com/gh/windows-utils.git
 cd windows-utils
 ```
 
