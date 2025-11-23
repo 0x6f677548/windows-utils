@@ -1,6 +1,6 @@
 # Windows Utils
 
-A comprehensive collection of PowerShell utilities for Windows system administration and automation. Includes tools for DNS management, networking diagnostics, WiFi profile management, OneDrive synchronization, and file operations.
+A collection of PowerShell utilities for Windows system administration and automation. Includes tools for DNS management, networking diagnostics, WiFi profile management, OneDrive synchronization, and file operations.
 
 ## Features
 
